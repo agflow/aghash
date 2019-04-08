@@ -1,6 +1,6 @@
 # aghash
 
-## Overview [![GoDoc](https://godoc.org/github.com/aghash/aghash?status.svg)](https://godoc.org/github.com/aghash) [![Build Status](https://travis-ci.org/aghash/aghash.svg?branch=master)](https://travis-ci.org/agflow/aghash) [![Go Report Card](https://goreportcard.com/badge/github.com/agflow/aghash)](https://goreportcard.com/report/github.com/agflow/aghash)
+## Overview [![GoDoc](https://godoc.org/github.com/agflow/aghash?status.svg)](https://godoc.org/github.com/agflow/aghash) [![Build Status](https://travis-ci.org/agflow/aghash.svg?branch=master)](https://travis-ci.org/agflow/aghash) [![Go Report Card](https://goreportcard.com/badge/github.com/agflow/aghash)](https://goreportcard.com/report/github.com/agflow/aghash)
 
 ## Install
 
